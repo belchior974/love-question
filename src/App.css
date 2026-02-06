@@ -1,0 +1,25 @@
+/* Reset básico */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* O root do React precisa preencher a tela toda */
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* (Opcional) garante que nada cause scroll horizontal */
+body {
+  overflow-x: hidden;
+}
