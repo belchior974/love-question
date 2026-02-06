@@ -61,7 +61,7 @@ export function LoveQuestion() {
           <>
             <h1 className="title">AAAAA 😍💖</h1>
             <p className="subtitle">
-              Então tá decidido: <b>pra sempre</b> ✨
+              Então tá decidido: <b>pra sempre</b> Eu te amo ❤️✨
             </p>
 
             <div className="gifWrap">
